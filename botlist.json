@@ -1,0 +1,10 @@
+{
+    "log": "botlogkanalid",
+    "kanalyetkili": "yetkilikanalid", 
+    "yetkili": "yetkilirolid",
+    "onaylıüye": "onaylıüyerolid",
+    "botrol": "botrolid",
+    "başvurukanal": "başvurukanalid",
+    "sertifikabot": "sertifikalıbotrolid",
+    "sertifikalıdevel" : "sertifikalıüyerolid"
+}  
